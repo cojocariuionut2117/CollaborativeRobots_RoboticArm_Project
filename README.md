@@ -6,6 +6,6 @@ _Results obtained:_ A system of 2 robots capable of moving to coordinates given 
 
 _Testing and verifications:_ During the development of the project, we divided it into smaller modules. Each module has been tested and validated individually to ensure functionality. This approach allowed identifying and solving problems more effectively.
 
-_Personal contributions:_ Identification and calculation of a PID regulator for the robot speed control system, calculation of the inverse kinematics model of the robotic arm, communication between robots and the user through the web interface.
+_Personal contributions:_ Identification of speed system and calculation of a PID regulator for the robot speed control system, calculation of the inverse kinematics model of the robotic arm, communication between robots and the user through the web interface.
 
 _Documentation sources:_ Scientific articles, conferences, specialized websites.
